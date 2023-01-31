@@ -7,7 +7,7 @@ Esse repositório é referente a [Imersão Dev 6](https://imersao.dev/) da empre
 
 ## 👩‍💻 Demo
 
-![](https://i.imgur.com/HdbTin4.gif)
+![](https://i.imgur.com/mJaXuWr.gif)
 
 
 ## ▶️ Como executar
