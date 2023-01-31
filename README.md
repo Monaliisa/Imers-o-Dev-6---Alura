@@ -9,9 +9,6 @@ Esse repositório é referente a [Imersão Dev 6](https://imersao.dev/) da empre
 
 ![](https://i.imgur.com/HdbTin4.gif)
 
-## 💻 Tecnologias Usadas
-
-Nos projetos foram utilizadas as linguagens:
 
 ## ▶️ Como executar
 
@@ -24,6 +21,8 @@ Descompacte os arquivos e abra em um editor de código.
 Cada aula é referente a um dia da imersão, nela contém os desafios das aulas. 
 
 ## 󠀾🆚 Tecnologias Utilizadas
+
+Nos projetos foram utilizadas as linguagens:
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
