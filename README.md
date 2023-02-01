@@ -7,11 +7,8 @@ Esse repositório é referente a [Imersão Dev 6](https://imersao.dev/) da empre
 
 ## 👩‍💻 Demo
 
-![](https://i.imgur.com/HdbTin4.gif)
+![](https://i.imgur.com/mJaXuWr.gif)
 
-## 💻 Tecnologias Usadas
-
-Nos projetos foram utilizadas as linguagens:
 
 ## ▶️ Como executar
 
@@ -25,6 +22,14 @@ Cada aula é referente a um dia da imersão, nela contém os desafios das aulas.
 
 ## 󠀾🆚 Tecnologias Utilizadas
 
+Nos projetos foram utilizadas as linguagens:
+
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+
+Parte do projeto foi utilizado o ambiente [Codepen](https://codepen.io/). Abaixo há os links redirecionando para os projetos.
+
+* [Conversor de Moedas](https://codepen.io/Monaliisa/pen/jOpvypr)
+* [Conversor de Temperaturas](https://codepen.io/Monaliisa/pen/OJwBmgx)
+* [Conversor Ano Luz](https://codepen.io/Monaliisa/pen/PoByJxQ)
